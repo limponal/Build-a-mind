@@ -1,0 +1,49 @@
+nav{
+text-align:left;
+font-style:times new roman;
+background-color:brown;
+text-size:200px;
+font-weight:800;
+margin:0;
+padding:20px 20px 20px 20px;
+display:block;
+text-decoration:none;
+}
+
+h1{
+  text-align:center;
+  font-style:arial;
+  color:gold;
+  text-size:200px;
+  font-weight:800;
+  padding:12px 10px 12px 12px;
+
+}
+h2{
+  font-style:times new roman;
+  color:black;
+  text-align:justify;
+
+}
+nav a{
+  float: center;
+  widith:1.5cm;
+  text-size:150px:
+  font-family:times new roman;
+  color:grey;
+  padding: 12px 12px 12px 12px;
+}
+img{
+  float:right
+}
+h2 h3{
+  border:5px medium orange;
+}
+.logo{
+  height:80px;
+  width:80px;
+
+}
+body{
+  background-image: url(https://wallpaperaccess.com/full/1125812.jpg);
+}
