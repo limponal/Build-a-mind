@@ -1,0 +1,17 @@
+h3{
+  text-align: center;
+  color:white;
+  font-family:italic;
+  background:grey;
+
+}
+h2{
+  text-align:center;
+  color:white;
+  font-family:sans-serif;
+  background:black;
+  border:10px solid grey;
+}
+body{
+  background:grey;
+}
